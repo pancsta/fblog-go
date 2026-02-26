@@ -2,6 +2,11 @@
 
 # fblog
 
+## FORK
+
+This is a basic translation of fblog to Golang for embedding. Use the original whenever possible.
+
+## ORGIN
 
 A small tool to view json log files.
 
